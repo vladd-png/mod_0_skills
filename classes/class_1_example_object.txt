@@ -1,0 +1,14 @@
+Bloody Mary [Brunch Drinks]
+1. name: "Bloody Mary"
+2. alcohol_percentage: (11.5)
+3. ingredients: "tomato_juice, vodka, old_bay, celery_stalk, tobasco"
+4. drink_size: (16)
+5. number_of_garnishes: (5)
+6. is_alcoholic: true
+
+Methods
+1. create_drink: mix_together "tomato_juice, vodka, old_bay, celery_stalk, tobasco"
+2. add_alcohol: boolean=true; ingredients "vodka"
+3. consume_drink: drink_size (16-16=0)
+4. add_toppings: (number_of_garnishes = 5; ingredients = "lemon, lime, olives, celery, pickles")
+5. sell_drink: ingredients = "tomato_juice, vodka, old_bay, celery_stalk, tobasco" drink_name = "Bloody_Mary"
