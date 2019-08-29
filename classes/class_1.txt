@@ -1,0 +1,15 @@
+class [Brunch Drinks]
+ Attributes
+ 1. name (string)
+ 2. alcohol percentage (float)
+ 3. ingredients (string)
+ 4. glass_capacity (integer)
+ 5. number_of_garnishes (integer)
+ 6. is_alcoholic (boolean)
+
+ Methods
+ 1. create_drink (pulls values from ingredients string)
+ 2. add_alcohol (determines is_alcoholic boolean; determines ingredients)
+ 3. consume_drink (changes the glass_capacity data)
+ 4. add_toppings (determines the data in number_of_garnishes; ingredients)
+ 5. sell_drink (pulls data from ingredients to determine name)
