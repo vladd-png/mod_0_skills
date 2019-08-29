@@ -12,5 +12,5 @@ Attributes
 Methods
 1. available_seats: Seat_amount <= full
 2. check_total: takes the number_of_guests times food_cost
-3. is_seated: pulls number_of_guests out of Seat_amount data
+3. has_table: pulls number_of_guests out of Seat_amount data
 4. seated_next: pulls data from waitlist, then i++
