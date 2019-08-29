@@ -1,0 +1,16 @@
+class [Guests]
+Attributes
+1. number_of_guests (integer)
+2. is_fed (boolean)
+3. is_seated (boolean)
+4. Seat_amount_in_cafe (integer)
+5. check_total (float)
+6. seats_per_table (integer)
+7. food_cost_per_plate (float)
+8. waitlist (string)
+
+Methods
+1. available_seats: Seat_amount <= full
+2. check_total: takes the number_of_guests times food_cost
+3. is_seated: pulls number_of_guests out of Seat_amount data
+4. seated_next: pulls data from waitlist, then i++
