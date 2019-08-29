@@ -6,6 +6,14 @@ How to become a Turing Student
     1.2.1 ask questions
     1.2.2 determine if Turing is right for you
     1.2.3 choose FE or BE
+      1.2.3.F Choose Front End
+        1.2.3.F.1 discover java
+        1.2.3.F.2 discover design tools
+        1.2.3.F.3 Discover front end development
+      1.2.3.B.1 Choose Back End
+        1.2.3.B.1 Discover Ruby
+        1.2.3.B.2 Discover new text coding language
+        1.2.3.B.3 Discover back end development
   1.3 take admissions test
     1.3.1 locate campus
     1.3.2 locate proper waiting room
@@ -21,8 +29,19 @@ How to become a Turing Student
     3.1.1 monday through friday
     3.1.2 9 am to 4 pm
   3.2 code everyday
+    3.2.1 monday
+    3.2.2 tuesday
+    3.3.3 wednesday
+    3.3.4 thursday
+    3.3.5 friday
+    3.3.6 saturday
+    3.3.7 POMODOROS
   3.3 meet fellow students
+    3.3.1 Join a posse
+    3.3.2 join another posse
   3.4 learn your resources
+    3.4.1 on campus
+    3.4.2 off campus
 4. Study
   4.1 code everyday
   4.2 study everyday
