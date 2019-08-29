@@ -8,8 +8,8 @@ class [Brunch Drinks]
  6. is_alcoholic (boolean)
 
  Methods
- 1. create_drink (pulls values from ingredients string)
- 2. add_alcohol (determines is_alcoholic boolean; determines ingredients)
- 3. consume_drink (changes the drink_size data)
- 4. add_toppings (determines the data in number_of_garnishes; ingredients)
- 5. sell_drink (pulls data from ingredients to determine name)
+ 1. create_drink: pulls values from ingredients string
+ 2. add_alcohol: determines is_alcoholic boolean; determines ingredients
+ 3. consume_drink: changes the drink_size data
+ 4. add_toppings: determines the data in number_of_garnishes and ingredients
+ 5. sell_drink: pulls data from ingredients to determine name
