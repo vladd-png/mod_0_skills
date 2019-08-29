@@ -1,0 +1,36 @@
+How to become a Turing Student
+
+1. Enroll
+  1.1 fill out application
+  1.2 meet with advisor
+    1.2.1 ask questions
+    1.2.2 determine if Turing is right for you
+    1.2.3 choose FE or BE
+  1.3 take admissions test
+    1.3.1 locate campus
+    1.3.2 locate proper waiting room
+    1.3.3 meet student
+    1.3.4 take test
+    1.3.5 discuss test with Student
+2. Pay out
+  2.1 take out a loan
+  2.2 apply for scholarship
+  2.3 send away cash
+3. Learn
+  3.1 class 5 days a week
+    3.1.1 monday through friday
+    3.1.2 9 am to 4 pm
+  3.2 code everyday
+  3.3 meet fellow students
+  3.4 learn your resources
+4. Study
+  4.1 code everyday
+  4.2 study everyday
+  4.3 complete assignments
+  4.4 create works online
+  4.5 learn how to code
+5. Apply
+  5.1 apply what you learned to succeed
+    5.1.1 as a coder
+    5.1.2 as a person
+    5.1.3 as a developer
