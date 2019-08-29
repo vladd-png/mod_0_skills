@@ -12,5 +12,5 @@ Attributes
 Methods
 1. available_seats: (54 - 4 = 50)
 2. check_total: (4 * 32.27 = 129.08)
-3. is_seated: 3 from 54 for one instance
+3. has_table: 3 from 54 for one instance
 4. seated_next: "Addams Family"; add "Sufrin Family" next
