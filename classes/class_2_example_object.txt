@@ -1,0 +1,16 @@
+guests [Smith Family]
+Attributes
+1. number_of_guests (3)
+2. is_fed = true
+3. is_seated = true
+4. Seat_amount_in_cafe (54)
+5. check_total (0)
+6. seats_per_table (4)
+7. food_cost_per_plate (32.27)
+8. waitlist (Addams Family)
+
+Methods
+1. available_seats: (54 - 4 = 50)
+2. check_total: (4 * 32.27 = 129.08)
+3. is_seated: 3 from 54 for one instance
+4. seated_next: [Addams Family; add Sufrin Family next]
