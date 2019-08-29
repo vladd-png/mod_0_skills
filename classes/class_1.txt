@@ -3,7 +3,7 @@ class [Brunch Drinks]
  1. name (string)
  2. alcohol_percentage (float)
  3. ingredients (string)
- 4. drink_size (integer)
+ 4. drink_size (integer/float)
  5. number_of_garnishes (integer)
  6. is_alcoholic (boolean)
 
