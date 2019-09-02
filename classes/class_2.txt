@@ -1,16 +1,14 @@
-class [Guests]
+class [Host]
 Attributes
 1. number_of_guests (integer)
-2. is_fed (boolean)
-3. is_seated (boolean)
-4. Seat_amount_in_cafe (integer)
-5. check_total (float)
-6. seats_per_table (integer)
-7. food_cost_per_plate (float)
-8. waitlist (string)
+2. is_seated (integer)
+3. Seat_amount_in_cafe (integer)
+4. seats_per_table (integer)
+5. waitlist (string)
+6. server_rotation (string)
 
 Methods
 1. available_seats: Seat_amount <= full
-2. check_total: takes the number_of_guests times food_cost
-3. has_table: pulls number_of_guests out of Seat_amount data
+2. wait_time: pulls data from waitlist; and Seat_amount_in_cafe minus is_seated amount
+3. next_server: rotates through server_rotation string
 4. seated_next: pulls data from waitlist, then i++
