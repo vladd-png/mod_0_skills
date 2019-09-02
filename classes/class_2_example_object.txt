@@ -1,16 +1,14 @@
 guests [Smith Family]
 Attributes
 1. number_of_guests (3)
-2. is_fed = true
-3. is_seated = true
-4. Seat_amount_in_cafe (54)
-5. check_total (0)
-6. seats_per_table (4)
-7. food_cost_per_plate (32.27)
-8. waitlist "Addams Family"
+2. is_seated = 21
+3. Seat_amount_in_cafe (54)
+4. seats_per_table (4)
+5. waitlist "Addams Family"
+6. server_rotation: "Rebecca, Michael, Alex, Brian," repeats
 
 Methods
 1. available_seats: (54 - 4 = 50)
-2. check_total: (4 * 32.27 = 129.08)
-3. has_table: 3 from 54 for one instance
+2. wait_time: 54 - 21 = 33 available_seats; "Addams Family"
+3. next_server: pulls "Rebecca" next is "Michael"
 4. seated_next: "Addams Family"; add "Sufrin Family" next
