@@ -5,7 +5,7 @@ Attributes
 3. Seat_amount_in_cafe = 54
 4. seats_per_table = 4
 5. waitlist [Smith Family, Addams Family, Sufrin Family, Perry Family]
-6. server_rotation: [Rebecca, Michael, Alex, Brian,] repeats
+6. server_rotation: [Rebecca, Michael, Alex, Brian] repeats
 
 Methods
 1. available_seats: 54 - 4 = 50
