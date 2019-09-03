@@ -1,14 +1,14 @@
 Host [Smith Family]
 Attributes
-1. number_of_guests (3)
+1. number_of_guests = 3
 2. is_seated = 21
-3. Seat_amount_in_cafe (54)
-4. seats_per_table (4)
-5. waitlist "Addams Family"
-6. server_rotation: "Rebecca, Michael, Alex, Brian," repeats
+3. Seat_amount_in_cafe = 54
+4. seats_per_table = 4
+5. waitlist [Smith Family, Addams Family, Sufrin Family, Perry Family]
+6. server_rotation: [Rebecca, Michael, Alex, Brian,] repeats
 
 Methods
-1. available_seats: (54 - 4 = 50)
-2. wait_time: 54 - 21 = 33 available_seats; "Addams Family"
-3. next_server: pulls "Rebecca" next is "Michael"
-4. seated_next: "Addams Family"; add "Sufrin Family" next
+1. available_seats: 54 - 4 = 50
+2. wait_time: 54 - 21 = 33 available_seats; [Addams Family]
+3. next_server: pulls [Rebecca]; next is [Michael]
+4. seated_next: [Addams Family]; next is [Sufrin Family]
