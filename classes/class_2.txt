@@ -4,11 +4,11 @@ Attributes
 2. is_seated (integer)
 3. Seat_amount_in_cafe (integer)
 4. seats_per_table (integer)
-5. waitlist (string)
-6. server_rotation (string)
+5. waitlist (array)
+6. server_rotation (array)
 
 Methods
 1. available_seats: Seat_amount <= full
 2. wait_time: pulls data from waitlist; and Seat_amount_in_cafe minus is_seated amount
-3. next_server: rotates through server_rotation string
-4. seated_next: pulls data from waitlist, then i++
+3. next_server: pulls data from server_rotation array, then i++
+4. seated_next: pulls data from waitlist array, then i++
